@@ -1,0 +1,5 @@
+*{
+    margin: 0; /* Tira a margem do elementos - espaçamento externos dos elementos */
+    padding: 0; /* Espaçamento interno dos elementos*/
+    box-sizing: border-box; /*Facilita trabalhar com as caixas*/
+}
