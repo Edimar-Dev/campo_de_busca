@@ -1,5 +1,28 @@
-*{
-    margin: 0; /* Tira a margem do elementos - espaçamento externos dos elementos */
-    padding: 0; /* Espaçamento interno dos elementos*/
-    box-sizing: border-box; /*Facilita trabalhar com as caixas*/
+/* Reset CSS */
+
+/* Remove margens e preenchimentos padrão, e define box-sizing */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Remove o padding e a margem do body */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section input{
+
+    border: none; /* Remove a borda padrão */
+}
+
+section button {
+    
+    border: none; /* Remove a borda padrão */
+}
+.item-resultado a {
+
+    text-decoration: none; /* Remove o sublinhado padrão dos links */
 }

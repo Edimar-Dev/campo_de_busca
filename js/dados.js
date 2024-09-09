@@ -5,12 +5,14 @@ let dados = [
         link:"https://g.co/kgs/65ujkXB",
         tags: "dolar alta baixa queda alta aumento"
     },
+
     {
         titulo:"Cotação da Bolsa de Valores",
         descricao: "A bolsa de valores é um lugar onde as pessoas podem comprar e vender partes de empresas. É um dos principais motores da economia, pois permite que as empresas captem recursos para investir e crescer.",
         link:"https://economia.uol.com.br/cotacoes/bolsas/",
         tags: "investimento Investimento mercadofinanceiro trade investir"
     },
+    
     {
         titulo:"IPCA",
         descricao: "O IPCA é um indicador fundamental para entender a evolução dos preços na economia brasileira e como isso afeta o dia a dia das pessoas. Ao acompanhar o IPCA, é possível ter uma ideia melhor do poder de compra do seu dinheiro e como a inflação pode impactar seus investimentos e planejamento financeiro.",

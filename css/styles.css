@@ -10,8 +10,7 @@ body {
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
     height: 100vh; /* Preenche a altura total da viewport */
-    margin: 0; /* Remove a margem padrão */
-    padding: 0; /* Remove o padding padrão */
+    
 }
 
 /* Estiliza os títulos h1 */
@@ -33,7 +32,6 @@ section {
 /* Estiliza os inputs dentro das seções */
 section input {
     width: 30rem; /* Largura dos inputs */
-    border: none; /* Remove a borda padrão */
     padding: 1rem; /* Espaçamento interno */
     border-radius: 1.5rem; /* Borda arredondada */
     margin-bottom: 1rem; /* Espaçamento abaixo dos inputs */
@@ -45,7 +43,6 @@ section input {
 /* Estiliza os botões dentro das seções */
 section button {
     padding: 0.8rem 1.2rem; /* Espaçamento interno do botão */
-    border: none; /* Remove a borda padrão */
     border-radius: 1.5rem; /* Borda arredondada */
     background-color: #30475E; /* Cor de fundo do botão */
     color: #F5F7F8; /* Cor do texto do botão */
@@ -86,7 +83,7 @@ section button:hover {
 
 /* Estiliza os links dentro dos itens de resultado */
 .item-resultado a {
-    text-decoration: none; /* Remove o sublinhado padrão dos links */
+    
     color: #30475E; /* Cor do texto dos links */
 }
 
